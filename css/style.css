@@ -1,0 +1,110 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body{
+	font-size: 14px;
+	font-family: "Oswald", sans-serif;
+	color: #FFFFFF;
+}
+
+header{
+	background-color: #000;
+	
+}
+ .line{
+ margin: 1px;
+height: 0.1px;
+}
+#latest {
+
+	background-color: #09090a;
+	padding-top: 1%;
+}
+#max{
+	align-content: center;
+	text-align: center;
+	padding-bottom: 2%;
+}
+.espacio{
+	
+	color:black;
+	background-color: black;
+	
+}
+
+#acerca{
+	background-color: #f1f1f1;
+	color:#000;
+	padding-top: 1%;
+}
+
+#acerca h1 {
+
+	
+	font-size: 400%;
+}
+
+#acerca h2{
+	padding-top: 4%;
+	padding-bottom: 5%;
+}
+#acerca p{
+	padding-top: 3%;
+font-size: 150%;
+}
+
+#acerca .margen-superior p{
+	font-size: 260%; 
+}
+.minilogo{
+	font-size: 200%;
+	padding-bottom: 5%;
+}
+
+.iglogo{
+	font-size: 125%;
+	padding-bottom: 1%;
+}
+#servicios{
+	background-color: #000;
+	color:#fff;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+h1{
+	padding-bottom: 3%;
+}
+
+
+#portfolio{
+	
+	color:#fff;
+	padding-top: 3%;
+	background-color: #000;
+}
+
+#contacto{
+	color:#000;
+	padding-top: 2%;
+	margin: auto;
+
+	 }
+#contacto h1{
+	padding-bottom: 1%;
+}
+
+footer{
+	background-color: #000;
+	color: #fff;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	text-align: center;
+}
+
+h4{
+	color: #0091ff;
+}
+
+
+   
